@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0389-find-the-difference) |
+| [1306-minimum-absolute-difference](https://github.com/prasad-nimbalkar/LeetCode/tree/master/1306-minimum-absolute-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0035-search-insert-position) |
+| [1306-minimum-absolute-difference](https://github.com/prasad-nimbalkar/LeetCode/tree/master/1306-minimum-absolute-difference) |
 ## Counting
 |  |
 | ------- |
