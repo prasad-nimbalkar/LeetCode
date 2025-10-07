@@ -10,6 +10,7 @@
 | ------- |
 | [0389-find-the-difference](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0392-is-subsequence) |
+| [3636-check-balanced-string](https://github.com/prasad-nimbalkar/LeetCode/tree/master/3636-check-balanced-string) |
 ## Bit Manipulation
 |  |
 | ------- |
