@@ -38,5 +38,10 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0069-sqrtx) |
+## Array
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
