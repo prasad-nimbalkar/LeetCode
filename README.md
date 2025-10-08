@@ -60,4 +60,20 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0014-longest-common-prefix) |
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0207-course-schedule) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0207-course-schedule) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
