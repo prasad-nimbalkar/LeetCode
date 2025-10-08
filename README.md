@@ -29,6 +29,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0392-is-subsequence](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0035-search-insert-position) |
 | [1306-minimum-absolute-difference](https://github.com/prasad-nimbalkar/LeetCode/tree/master/1306-minimum-absolute-difference) |
 ## Counting
