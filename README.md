@@ -10,6 +10,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0171-excel-sheet-column-number](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0389-find-the-difference](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0392-is-subsequence) |
@@ -46,10 +47,15 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0035-search-insert-position) |
 | [1306-minimum-absolute-difference](https://github.com/prasad-nimbalkar/LeetCode/tree/master/1306-minimum-absolute-difference) |
 ## Counting
 |  |
 | ------- |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/prasad-nimbalkar/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
