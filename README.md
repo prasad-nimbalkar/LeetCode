@@ -56,6 +56,7 @@
 | [0014-longest-common-prefix](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0035-search-insert-position) |
+| [0890-lemonade-change](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0890-lemonade-change) |
 | [1306-minimum-absolute-difference](https://github.com/prasad-nimbalkar/LeetCode/tree/master/1306-minimum-absolute-difference) |
 ## Counting
 |  |
@@ -85,4 +86,8 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0412-fizz-buzz) |
+## Greedy
+|  |
+| ------- |
+| [0890-lemonade-change](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
