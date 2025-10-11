@@ -14,6 +14,7 @@
 | [0171-excel-sheet-column-number](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0389-find-the-difference](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0412-fizz-buzz) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/prasad-nimbalkar/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3636-check-balanced-string](https://github.com/prasad-nimbalkar/LeetCode/tree/master/3636-check-balanced-string) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/prasad-nimbalkar/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
@@ -40,6 +41,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0412-fizz-buzz](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0412-fizz-buzz) |
 ## Binary Search
 |  |
 | ------- |
@@ -76,4 +78,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0207-course-schedule) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
