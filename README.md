@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0202-happy-number) |
 | [0389-find-the-difference](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0389-find-the-difference) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/prasad-nimbalkar/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/prasad-nimbalkar/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0202-happy-number](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
@@ -41,6 +43,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0412-fizz-buzz) |
 ## Binary Search
 |  |
