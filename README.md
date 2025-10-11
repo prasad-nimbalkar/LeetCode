@@ -57,6 +57,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0035-search-insert-position) |
 | [0890-lemonade-change](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0890-lemonade-change) |
+| [0898-transpose-matrix](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0898-transpose-matrix) |
 | [1306-minimum-absolute-difference](https://github.com/prasad-nimbalkar/LeetCode/tree/master/1306-minimum-absolute-difference) |
 ## Counting
 |  |
@@ -86,8 +87,13 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0412-fizz-buzz) |
+| [0898-transpose-matrix](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0898-transpose-matrix) |
 ## Greedy
 |  |
 | ------- |
 | [0890-lemonade-change](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0890-lemonade-change) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
