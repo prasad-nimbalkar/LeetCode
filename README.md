@@ -18,6 +18,7 @@
 | [0392-is-subsequence](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0415-add-strings) |
+| [0981-delete-columns-to-make-sorted](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/prasad-nimbalkar/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3636-check-balanced-string](https://github.com/prasad-nimbalkar/LeetCode/tree/master/3636-check-balanced-string) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/prasad-nimbalkar/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
@@ -63,6 +64,7 @@
 | [0217-contains-duplicate](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0217-contains-duplicate) |
 | [0890-lemonade-change](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0898-transpose-matrix) |
+| [0981-delete-columns-to-make-sorted](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1306-minimum-absolute-difference](https://github.com/prasad-nimbalkar/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/prasad-nimbalkar/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Counting
