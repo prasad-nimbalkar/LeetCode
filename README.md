@@ -56,6 +56,7 @@
 | [0415-add-strings](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0415-add-strings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/prasad-nimbalkar/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/prasad-nimbalkar/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/prasad-nimbalkar/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 | [0412-fizz-buzz](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0415-add-strings) |
 | [0898-transpose-matrix](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0898-transpose-matrix) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/prasad-nimbalkar/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/prasad-nimbalkar/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Greedy
 |  |
@@ -135,4 +137,8 @@
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/prasad-nimbalkar/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Game Theory
+|  |
+| ------- |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/prasad-nimbalkar/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
