@@ -19,6 +19,7 @@
 | [0412-fizz-buzz](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0415-add-strings) |
 | [0981-delete-columns-to-make-sorted](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/prasad-nimbalkar/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/prasad-nimbalkar/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3636-check-balanced-string](https://github.com/prasad-nimbalkar/LeetCode/tree/master/3636-check-balanced-string) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/prasad-nimbalkar/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
@@ -38,6 +39,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0202-happy-number](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0392-is-subsequence) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/prasad-nimbalkar/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -127,4 +129,8 @@
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/prasad-nimbalkar/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+## String Matching
+|  |
+| ------- |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/prasad-nimbalkar/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 <!---LeetCode Topics End-->
