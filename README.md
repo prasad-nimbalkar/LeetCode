@@ -18,6 +18,7 @@
 | [0392-is-subsequence](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0981-delete-columns-to-make-sorted](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/prasad-nimbalkar/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/prasad-nimbalkar/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
