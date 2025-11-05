@@ -28,6 +28,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0389-find-the-difference](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
@@ -63,6 +64,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0069-sqrtx) |
+| [0222-count-complete-tree-nodes](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Array
 |  |
 | ------- |
@@ -125,11 +127,13 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Memoization
 |  |
 | ------- |
