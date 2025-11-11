@@ -46,6 +46,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0202-happy-number](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0392-is-subsequence) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/prasad-nimbalkar/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Dynamic Programming
@@ -81,6 +82,7 @@
 | [0217-contains-duplicate](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0283-move-zeroes) |
 | [0890-lemonade-change](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0898-transpose-matrix) |
 | [0981-delete-columns-to-make-sorted](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
