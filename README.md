@@ -83,6 +83,7 @@
 | [0228-summary-ranges](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0890-lemonade-change](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0898-transpose-matrix) |
 | [0981-delete-columns-to-make-sorted](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
@@ -158,4 +159,12 @@
 |  |
 | ------- |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/prasad-nimbalkar/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
