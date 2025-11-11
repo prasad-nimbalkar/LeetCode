@@ -6,6 +6,7 @@
 | ------- |
 | [0202-happy-number](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0389-find-the-difference) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/prasad-nimbalkar/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/prasad-nimbalkar/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
@@ -30,11 +31,13 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0389-find-the-difference) |
 | [1306-minimum-absolute-difference](https://github.com/prasad-nimbalkar/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [4107-find-missing-elements](https://github.com/prasad-nimbalkar/LeetCode/tree/master/4107-find-missing-elements) |
@@ -56,6 +59,7 @@
 | [0069-sqrtx](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0415-add-strings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/prasad-nimbalkar/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -67,6 +71,7 @@
 | [0035-search-insert-position](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0268-missing-number) |
 ## Array
 |  |
 | ------- |
@@ -75,6 +80,7 @@
 | [0035-search-insert-position](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0268-missing-number) |
 | [0890-lemonade-change](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0898-transpose-matrix) |
 | [0981-delete-columns-to-make-sorted](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
