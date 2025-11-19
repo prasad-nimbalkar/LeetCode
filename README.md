@@ -46,6 +46,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0202-happy-number](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0283-move-zeroes) |
@@ -78,6 +79,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0035-search-insert-position) |
@@ -131,6 +133,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0011-container-with-most-water) |
 | [0890-lemonade-change](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0890-lemonade-change) |
 ## Matrix
 |  |
