@@ -73,6 +73,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0222-count-complete-tree-nodes) |
@@ -84,6 +85,7 @@
 | [0014-longest-common-prefix](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/prasad-nimbalkar/LeetCode/tree/master/0228-summary-ranges) |
