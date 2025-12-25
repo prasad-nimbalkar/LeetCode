@@ -8,4 +8,3 @@ class Solution:
                 return [prevMap[diff], index]
             prevMap[number] = index
         return
-        
