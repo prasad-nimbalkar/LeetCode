@@ -1,10 +1,10 @@
 class Solution:
     def toggleLightBulbs(self, bulbs: list[int]) -> list[int]:
-        seen = []
+        seen = set()
 
         for i in bulbs:
             if i in seen:
                 seen.remove(i)
             else:
-                seen.append(i)
+                seen.add(i)
         return sorted(seen)
